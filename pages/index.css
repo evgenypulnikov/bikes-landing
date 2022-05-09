@@ -667,6 +667,7 @@
 }
 
 .form__input:focus {
+  border: 1px solid #c7c7c7;
   outline: none;
 }
 
@@ -749,6 +750,10 @@
 .form__input_theme_dark {
   border: 1px solid rgba(125, 125, 125, 0.5);
   color: #ffffff;
+}
+
+.form__input_theme_dark:focus {
+  border: 1px solid #7d7d7d;
 }
 
 .form__input_theme_dark::-webkit-input-placeholder {
