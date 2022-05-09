@@ -233,7 +233,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding-top: 250px;
+  padding: 200px 0 40px;
 }
 
 .quote__img {
@@ -288,7 +288,7 @@
 
 /* Slider */
 .slider {
-  padding: 123px 0 60px 0;
+  padding: 83px 0 55px 0;
 }
 
 .slider__slides {
@@ -411,12 +411,12 @@
 /* Bikes */
 .bikes {
   position: relative;
-  padding: 65px 0 195px;
+  padding: 70px 0 135px;
 }
 
 .bikes__tabs {
   position: absolute;
-  top: 89px;
+  top: 94px;
   right: 0;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -552,7 +552,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding: 60px 0 120px;
+  padding: 120px 0;
 }
 
 .apps__column {

@@ -133,3 +133,15 @@ themeToggler.addEventListener('change', function() {
     });
   }
 });
+
+/* ___ 5. Smooth Scroll To Anchors */
+
+document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+  anchor.addEventListener('click', function(evt) {
+    evt.preventDefault();
+
+    document.querySelector(this.getAttribute('href')).scrollIntoView({
+      behavior: 'smooth'
+    });
+  });
+});
