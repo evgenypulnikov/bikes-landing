@@ -1,0 +1,62 @@
+/* Colors */
+
+$color-page-background: #f4f4f4;
+$color-page-background-shady: #efefef;
+
+$color-text: #151515;
+$color-text-lite: #222222;
+$color-text-copyright: #cfcfcf;
+
+$color-button-text: #ffffff;
+$color-button-background: #24b47e;
+$color-button-background-hover: #319e75;
+
+$color-decorate: #D7D4D4;
+$color-decorate-transparent: rgba(199, 199, 199, 0.5);
+
+$color-slider-buttons: #ebebeb;
+
+$box-shadow: -20px 60px 220px 0px rgba(0, 0, 0, 0.2);
+$box-shadow-bikes: 0px 20px 140px 0px rgba(0, 0, 0, 0.06);
+$box-shadow-bikes-hover: 0px 20px 140px 0px rgba(0, 0, 0, 0.11);
+
+$color-toggler-background: #ffffff;
+$color-toggler: #24b47e;
+
+/* Colors - Theme Dark */
+
+$color-page-background-theme-dark: #333333;
+$color-page-background-shady-theme-dark: #2F2F2F;
+
+$color-text-theme-dark: #ffffff;
+$color-text-intro-paragraph-theme-dark: #e6e6e6;
+$color-text-lite-theme-dark: #e5e5e5;
+$color-text-copyright-theme-dark: #565656;
+
+$color-decorate-theme-dark: #707070;
+$color-slider-buttons-theme-dark: #434343;
+$color-slider-buttons-icon-theme-dark: #ffffff;
+
+$color-decorate-transparent-theme-dark: rgba(125, 125, 125, 0.5);
+
+$color-toggler-background-theme-dark: #545454;
+$color-toggler-icon-theme-dark: #676767;
+
+/* Fonts */
+
+$font-header: 500 14px/18px 'Inter', Helvetica, Arial, sans-serif;
+$font-title: 700 55px/60px 'Inter', Helvetica, Arial, sans-serif;
+$font-paragraph: 400 18px/28px 'Inter', Helvetica, Arial, sans-serif;
+$font-button: 600 14px/18px 'Inter', Helvetica, Arial, sans-serif;
+$font-decorate: 400 18px/18px 'Inter', Helvetica, Arial, sans-serif;
+$font-quote: 600 34px/44px 'Inter', Helvetica, Arial, sans-serif;
+$font-quote-author: 500 20px/32px 'Inter', Helvetica, Arial, sans-serif;
+$font-quote-underline: 400 16px/28px 'Inter', Helvetica, Arial, sans-serif;
+$font-link-active: 600 18px/28px 'Inter', Helvetica, Arial, sans-serif;
+$font-link: 400 18px/28px 'Inter', Helvetica, Arial, sans-serif;
+$font-bike: 600 18px/22px 'Inter', Helvetica, Arial, sans-serif;
+$font-subscribe-heading: 600 24px/32px 'Inter', Helvetica, Arial, sans-serif;
+$font-subscribe-input: 500 13px/28px 'Inter', Helvetica, Arial, sans-serif;
+$font-copyright: 600 14px/20px 'Inter', Helvetica, Arial, sans-serif;
+$lettering-sm: -0.5px;
+$lettering-md: 1px;

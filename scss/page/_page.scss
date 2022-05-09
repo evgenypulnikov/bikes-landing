@@ -1,0 +1,9 @@
+.page {
+  font-family: 'Inter', Helvetica, Arial, sans-serif;
+  background-color: $color-page-background;
+  overflow-x: hidden;
+}
+
+.page_theme_dark {
+  background-color: $color-page-background-theme-dark;
+}

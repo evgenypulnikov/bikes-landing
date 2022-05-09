@@ -1,0 +1,12 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 28px 0;
+  background-color: $color-page-background;
+  z-index: 1;
+}
+
+.header_theme_dark {
+  background-color: $color-page-background-theme-dark;
+}
